@@ -1,0 +1,24 @@
+For use it : 
+command : npm install
+
+For the backend : 
+command : nodemon server
+
+For the frontend : 
+command : npm run start
+
+///////////////////////////////////////
+This project is a site with many quiz about a lot of theme like : 
+-history
+-French language
+-mangas
+-pop culture
+-etc
+
+You can see them on home page and select one.
+After this select, you can choose a difficulty (easy, normal, hard)
+And you can access quiz
+
+if you want save your progress, create an account and see on your profil all tests you passed and their results
+///////////////////////////////////////
+I use Sass for stylesheet
